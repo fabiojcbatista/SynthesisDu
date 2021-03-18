@@ -12,8 +12,9 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 
 <br/>
 
-<img align="right">
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight)](https://github.com/SynthesisDu/CSE205_AutoSymbolGraphic)</img>
+<div align="right">
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight)](https://github.com/SynthesisDu/CSE205_AutoSymbolGraphic)
+</div>
 
 <div>
 图片转字符画工具
