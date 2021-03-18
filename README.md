@@ -13,9 +13,10 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 <br/>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight)](https://github.com/SynthesisDu/CSE205_AutoSymbolGraphic)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight)](https://github.com/SynthesisDu/CSE205_Gobang)
 
 <div>
-[![](图片转字符画工具)](https://github.com/SynthesisDu/CSE205_AutoSymbolGraphic)
+图片转字符画工具
 
 ```
 Python课Project2
@@ -24,13 +25,6 @@ Python课Project2
 随便乱写的，不规范请见谅
 ```
 </div>
-
-<br/>
-
-<p align="left">
-<a herf="https://github.com/SynthesisDu/CSE205_Gobang">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight" />
-</a></p>
 
 <div>
 人机五子棋游戏
