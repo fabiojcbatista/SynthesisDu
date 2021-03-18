@@ -14,7 +14,7 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight" />
 
-<div  align="left">
+<div float=right>
 图片转字符画工具
 
 ```
