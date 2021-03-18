@@ -12,7 +12,7 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 
 <br/><br/>
 
-<img align="left" float=right src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight" />
 
 <div>
 图片转字符画工具
