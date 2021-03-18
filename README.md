@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&theme=tokyonight" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynthesisDu" />
+<img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynthesisDu&hide=Gerber_Imagine" />
 <div style='display: none'>https://github.com/anuraghazra/github-readme-stats</div>
 
 高二菜鸡，在忙托福。啥都只会一点，来给大佬倒茶。
