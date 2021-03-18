@@ -24,3 +24,18 @@ Python课Project2
 随便乱写的，不规范请见谅
 ```
 </div>
+
+<br/><br/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight" />
+
+<div>
+人机五子棋游戏
+
+```
+Python课Project3
+点击左侧图，进入后点击下载，点击ZIP
+需要Import额外的包
+随便乱写的，不规范请见谅
+```
+</div>
