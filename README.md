@@ -16,8 +16,11 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 
 <h4> 图片转字符画工具 </h4>
 
+---
+
+~
 Python课Project2
 点击左侧图，进入后点击下载，点击ZIP
 需要Import额外的包。如果是Windows也可以直接运行.exe文件
 随便乱写的，不规范请见谅
-
+~
