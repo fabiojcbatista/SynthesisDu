@@ -1,5 +1,5 @@
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&bg_color=06090f&title_color=6e40c9&text_color=db61a2&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&bg_color=0d1117&title_color=6e40c9&text_color=db61a2&hide_border=true" />
 
 高二菜鸡，在忙托福。啥都只会一点，来给大佬倒茶。
 
