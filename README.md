@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&theme=onedark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&theme=tokyonight" />
 
 高二菜鸡，在忙托福。啥都只会一点，来给大佬倒茶。
 
