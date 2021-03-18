@@ -12,14 +12,16 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight" />
+<a herf="https://github.com/SynthesisDu/CSE205_AutoSymbolGraphic">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight" />
+</a>
 
 <div>
 图片转字符画工具
 
 ```
 Python课Project2
-点击左侧图，进入后点击下载，点击ZIP
+点击左侧图，进入后点击绿色的"code"下载，点击ZIP
 需要Import额外的包。如果是Windows也可以直接运行.exe文件
 随便乱写的，不规范请见谅
 ```
@@ -27,14 +29,16 @@ Python课Project2
 
 <br/>
 
+<a herf="https://github.com/SynthesisDu/CSE205_Gobang">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight" />
+</a>
 
 <div>
 人机五子棋游戏
 
 ```
 Python课Project3
-点击左侧图，进入后点击下载，点击ZIP
+点击左侧图，进入后点击绿色的"code"下载，点击ZIP
 需要Import额外的包
 随便乱写的，不规范请见谅
 ```
