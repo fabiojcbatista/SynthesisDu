@@ -12,7 +12,7 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight" />
 
 高二菜鸡，在忙托福。啥都只会一点，来给大佬倒茶。
 
