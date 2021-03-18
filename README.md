@@ -27,9 +27,10 @@ Python课Project2
 
 <br/>
 
-<a align="left" herf="https://github.com/SynthesisDu/CSE205_Gobang">
+<p align="left">
+<a herf="https://github.com/SynthesisDu/CSE205_Gobang">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight" />
-</a>
+</a></p>
 
 <div>
 人机五子棋游戏
