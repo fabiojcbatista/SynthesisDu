@@ -16,7 +16,8 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight)](https://github.com/SynthesisDu/CSE205_Gobang)
 
 <div>
-CSE205_AutoSymbolGraphic
+CSE205_AutoSymbolGraphic图片文件自动生成字符画
+  
 ```
 Python课Project2
 点击左侧图，进入后点击绿色的"code"下载，点击ZIP
@@ -26,7 +27,8 @@ Python课Project2
 </div>
 
 <div>
-CSE205_Gobang
+CSE205_Gobang人机五子棋（命令行无UI）
+ 
 ```
 Python课Project3
 点击左侧图，进入后点击绿色的"code"下载，点击ZIP
