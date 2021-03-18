@@ -27,8 +27,8 @@ Python课Project2
 
 <br/>
 
-<a herf="https://github.com/SynthesisDu/CSE205_Gobang">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight" />
+<a align="left" herf="https://github.com/SynthesisDu/CSE205_Gobang">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight" />
 </a>
 
 <div>
