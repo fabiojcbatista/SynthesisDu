@@ -15,7 +15,7 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight)](https://github.com/SynthesisDu/CSE205_AutoSymbolGraphic)
 
 <div>
-图片转字符画工具
+[!(图片转字符画工具)](https://github.com/SynthesisDu/CSE205_AutoSymbolGraphic)
 
 ```
 Python课Project2
