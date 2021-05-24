@@ -12,9 +12,7 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 
 <br/>
 
-<div>
 ```
 if (homework == plagiarize) score = score * 0;
   
 ```
-</div>
