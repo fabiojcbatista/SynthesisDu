@@ -14,5 +14,4 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 
 ```
 if (homework == plagiarize) score = score * 0;
-  
 ```
