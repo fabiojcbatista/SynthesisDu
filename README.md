@@ -12,11 +12,9 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 
 <br/>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_AutoSymbolGraphic&theme=tokyonight)](https://github.com/SynthesisDu/CSE205_AutoSymbolGraphic)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight)](https://github.com/SynthesisDu/CSE205_Gobang)
-
 <div>
 ```
-  if (homework == plagiarize) score = score * 0;
+if (homework == plagiarize) score = score * 0;
+  
 ```
 </div>
