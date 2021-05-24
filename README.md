@@ -16,23 +16,7 @@ A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observatio
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&repo=CSE205_Gobang&theme=tokyonight)](https://github.com/SynthesisDu/CSE205_Gobang)
 
 <div>
-  <h3>CSE205_AutoSymbolGraphic图片文件自动生成字符画</h3>
-  
 ```
-Python课Project2
-点击上图，进入后点击绿色的"code"下载，点击ZIP
-需要Import额外的包。如果是Windows也可以直接运行.exe文件
-随便乱写的，不规范请见谅
-```
-</div>
-
-<div>
-  <h3>CSE205_Gobang人机五子棋 (命令行无UI)</h3>
- 
-```
-Python课Project3
-点上图，进入后点击绿色的"code"下载，点击ZIP
-需要Import额外的包
-随便乱写的，不规范请见谅
+  if (homework == plagiarize) score = score * 0;
 ```
 </div>
