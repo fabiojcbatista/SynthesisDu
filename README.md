@@ -2,7 +2,7 @@
 
 高三菜鸡，在忙托福。啥都只会一点，来给大佬倒茶。
 
-A G11 noob, busy in TOEFL. Knows a little bit of everything, come for observation those real pro.
+A G12 noob, busy in TOEFL. Knows a little bit of every part, come for observation those real pro.
 
 不知道有没有VMA的校友在这。
 
