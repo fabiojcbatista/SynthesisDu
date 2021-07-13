@@ -9,7 +9,7 @@ A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of ever
 [![Wechat](https://img.shields.io/badge/-SynthesisDu-green?style=flat&logo=Wechat&logoColor=white)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxODQ0NzQ1OQ==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63010043&lang=zh_CN&a8scene=7&fontgear=2)
 [![Bilibili](https://img.shields.io/badge/-SynRGB-05bfdf?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/62596542)
 [![YouTube](https://img.shields.io/badge/-SynRGB-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC81J1wPu1f1Dm3R8yWnrDqw)
-[![GitHub](https://img.shields.io/badge/-SynthesisDu-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/SynthesisDu)
+[![GitHub](https://img.shields.io/badge/-SynthesisDu-020202?style=flat&logo=GitHub&logoColor=white)](https://github.com/SynthesisDu)
 
 ```
 if (homework == plagiarize) score = score * 0;
