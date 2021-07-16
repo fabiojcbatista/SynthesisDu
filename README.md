@@ -1,7 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&theme=tokyonight" />
-<p align="right">
-高三菜鸡，为了自学做做项目，目前在忙托福。啥都只会一点，来给大佬倒茶。
-
+<p align="left">
+高三菜鸡，为了自学做做项目，目前在忙托福。啥都只会一点，来给大佬倒茶。</br>
 A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of every part, come to view real pro.</br>
 不知道有没有VMA的校友在这。
 </p>
