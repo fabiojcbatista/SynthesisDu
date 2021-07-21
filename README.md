@@ -10,6 +10,7 @@ A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of ever
 [![Bilibili](https://img.shields.io/badge/-SynRGB-05bfdf?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/62596542)
 [![YouTube](https://img.shields.io/badge/-SynRGB-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC81J1wPu1f1Dm3R8yWnrDqw)
 [![GitHub](https://img.shields.io/badge/-SynthesisDu-3A3A3A?style=flat&logo=GitHub&logoColor=white)](https://github.com/SynthesisDu)
+[![Steam](https://img.shields.io/badge/-Titan%20Z-0044AA?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198863245086/)
 </br></br>
 ```
 if (homework == plagiarize) score = score * 0;
