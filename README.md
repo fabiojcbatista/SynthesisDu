@@ -21,5 +21,7 @@ A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of ever
 ```
 if (homework == plagiarize) score = score * 0;
 ```
+
+[!](https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl)
 </div>
   
