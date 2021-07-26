@@ -14,14 +14,14 @@ A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of ever
 [![GitHub](https://img.shields.io/badge/-SynthesisDu-3A3A3A?style=flat&logo=GitHub&logoColor=white)](https://github.com/SynthesisDu)
 [![Steam](https://img.shields.io/badge/-Titan%20Z-0044AA?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198863245086/)
 </div>
-</br></br>
+</br>
 <div>
   <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact&theme=tokyonight" />
-  
+
 ```
 if (homework == plagiarize) score = score * 0;
 ```
   
-  <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl&theme=tokyonight" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl&theme=tokyonight" />
 </div>
   
