@@ -17,7 +17,7 @@ A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of ever
 </br>
 <div>
   <img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact&theme=tokyonight" />
-  <p width="60%">if (homework == plagiarize) score = score * 0;</p>
+  <p width="60%">  if (homework == plagiarize) score = score * 0;</p>
   <img align="right" width="58%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl&theme=tokyonight" />
 </div>
   
