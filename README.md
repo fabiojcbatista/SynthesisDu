@@ -9,7 +9,7 @@
   <a href='https://github.com/SynthesisDu'><img src="https://img.shields.io/badge/-SynthesisDu-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
   <a href='https://steamcommunity.com/profiles/76561198863245086/'><img src="https://img.shields.io/badge/-Titan%20Z-0044AA?style=flat&amp;logo=Steam&amp;logoColor=white" referrerpolicy="no-referrer" alt="Steam"></a></p>
 </div>
-</br><hr />
+<hr />
 <div>
   <img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact&theme=tokyonight" />
   <pre><code class='language-java' width="56%" lang='java'>if (homework == plagiarize) score = score * 0;</code></pre>
