@@ -7,12 +7,12 @@ A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of ever
 
 ---
 
-[![Wechat](https://img.shields.io/badge/-VMA%E7%A1%AC%E4%BB%B6%E7%A4%BE-green?style=flat&logo=Wechat&logoColor=white)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1NDQ4MzIxMg==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63010043&lang=zh_CN&a8scene=7&fontgear=2)
-[![Wechat](https://img.shields.io/badge/-SynthesisDu-green?style=flat&logo=Wechat&logoColor=white)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxODQ0NzQ1OQ==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63010043&lang=zh_CN&a8scene=7&fontgear=2)
-[![Bilibili](https://img.shields.io/badge/-SynRGB-05bfdf?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/62596542)
-[![YouTube](https://img.shields.io/badge/-SynRGB-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC81J1wPu1f1Dm3R8yWnrDqw)
-[![GitHub](https://img.shields.io/badge/-SynthesisDu-3A3A3A?style=flat&logo=GitHub&logoColor=white)](https://github.com/SynthesisDu)
-[![Steam](https://img.shields.io/badge/-Titan%20Z-0044AA?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198863245086/)
+<p><a href='https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzI1NDQ4MzIxMg==&amp;scene=124&amp;uin=&amp;key=&amp;devicetype=Windows+10+x64&amp;version=63010043&amp;lang=zh_CN&amp;a8scene=7&amp;fontgear=2'><img src="https://img.shields.io/badge/-VMA%E7%A1%AC%E4%BB%B6%E7%A4%BE-green?style=flat&amp;logo=Wechat&amp;logoColor=white" referrerpolicy="no-referrer" alt="Wechat"></a>
+<a href='https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzIxODQ0NzQ1OQ==&amp;scene=124&amp;uin=&amp;key=&amp;devicetype=Windows+10+x64&amp;version=63010043&amp;lang=zh_CN&amp;a8scene=7&amp;fontgear=2'><img src="https://img.shields.io/badge/-SynthesisDu-green?style=flat&amp;logo=Wechat&amp;logoColor=white" referrerpolicy="no-referrer" alt="Wechat"></a>
+<a href='https://space.bilibili.com/62596542'><img src="https://img.shields.io/badge/-SynRGB-05bfdf?style=flat&amp;logo=Bilibili&amp;logoColor=white" referrerpolicy="no-referrer" alt="Bilibili"></a>
+<a href='https://www.youtube.com/channel/UC81J1wPu1f1Dm3R8yWnrDqw'><img src="https://img.shields.io/badge/-SynRGB-FF0000?style=flat&amp;logo=YouTube&amp;logoColor=white" referrerpolicy="no-referrer" alt="YouTube"></a>
+<a href='https://github.com/SynthesisDu'><img src="https://img.shields.io/badge/-SynthesisDu-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
+<a href='https://steamcommunity.com/profiles/76561198863245086/'><img src="https://img.shields.io/badge/-Titan%20Z-0044AA?style=flat&amp;logo=Steam&amp;logoColor=white" referrerpolicy="no-referrer" alt="Steam"></a></p>
 </div>
 </br>
 <div>
