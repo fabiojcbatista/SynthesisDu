@@ -22,6 +22,6 @@ A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of ever
 if (homework == plagiarize) score = score * 0;
 ```
   
-  <img align="right" width="65%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl&theme=tokyonight" />
+  <img align="right" width="64%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl&theme=tokyonight" />
 </div>
   
