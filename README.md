@@ -15,3 +15,4 @@ A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of ever
 ```
 if (homework == plagiarize) score = score * 0;
 ```
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact&theme=tokyonight" />
