@@ -1,3 +1,4 @@
+<div>
 <p align="left">
 高三菜鸡，为了自学做做项目，目前在忙托福。啥都只会一点，来给大佬倒茶。</br>
 A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of every part, come to view real pro.</br>
@@ -13,9 +14,13 @@ A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of ever
 [![YouTube](https://img.shields.io/badge/-SynRGB-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC81J1wPu1f1Dm3R8yWnrDqw)
 [![GitHub](https://img.shields.io/badge/-SynthesisDu-3A3A3A?style=flat&logo=GitHub&logoColor=white)](https://github.com/SynthesisDu)
 [![Steam](https://img.shields.io/badge/-Titan%20Z-0044AA?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198863245086/)
+</div>
 </br></br>
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact&theme=tokyonight" />
 
 ```
 if (homework == plagiarize) score = score * 0;
 ```
+</div>
+  
