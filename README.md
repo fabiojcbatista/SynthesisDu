@@ -8,7 +8,7 @@
   <a href='https://www.youtube.com/channel/UC81J1wPu1f1Dm3R8yWnrDqw'><img src="https://img.shields.io/badge/-SynRGB-FF0000?style=flat&amp;logo=YouTube&amp;logoColor=white" referrerpolicy="no-referrer" alt="YouTube"></a>
   <a href='https://github.com/SynthesisDu'><img src="https://img.shields.io/badge/-SynthesisDu-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
   <a href='https://steamcommunity.com/profiles/76561198863245086/'><img src="https://img.shields.io/badge/-Titan%20Z-0044AA?style=flat&amp;logo=Steam&amp;logoColor=white" referrerpolicy="no-referrer" alt="Steam"></a>
-  <a href='https://steamcommunity.com/profiles/76561198863245086/'><img src="https://img.shields.io/badge/-SynRGB-FF0000?style=flat&amp;logo=data:C:\Users\Admin\Desktop\a.png;base64;logoColor=white" referrerpolicy="no-referrer" alt="Scp" ?logo=data:image/png;base64,…></a></p>
+  <a href='https://steamcommunity.com/profiles/76561198863245086/'><img src="https://img.shields.io/badge/-SynRGB-FF0000?style=flat&amp;logo=data:C:\Users\Admin\Desktop\a.png;base64;logoColor=white" referrerpolicy="no-referrer" alt="Scp" ?logo=data:https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fnote%2Flarge%2Fpublic%2Fp37673542.jpg&refer=http%3A%2F%2Fimg3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629959983&t=d8ce8ff0cf0d01fc0c9764292e48391c></a></p>
 </div>
 <hr />
 <div>
