@@ -17,9 +17,11 @@
   <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
 </div>
 
+<br>
+
 <div>
 <details>
-  <summary><font size='50'><br>View More</font></summary>
+  <summary><font size='50'>View More</font></summary>
 <figure><table>
 <thead>
 <tr><th>SynthesisDu</th><th>SynRGB</th><th>SynEGR</th></tr></thead>
