@@ -19,7 +19,7 @@
 
 <div>
 <details>
-<summary>View More Projs</summary>
+  <summary><font size='50'><br>View More</font></summary>
 <figure><table>
 <thead>
 <tr><th>SynthesisDu</th><th>SynRGB</th><th>SynEGR</th></tr></thead>
