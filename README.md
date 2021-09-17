@@ -16,3 +16,15 @@
   <pre><code class='language-java' width="56%" lang='java'>if (homework == plagiarize) score = score * 0;</code></pre>
   <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
 </div>
+
+<div>
+<details>
+<summary>View More Projs</summary>
+<figure><table>
+<thead>
+<tr><th>SynthesisDu</th><th>SynRGB</th><th>SynEGR</th></tr></thead>
+<tbody><tr><td>Origin</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&amp;repo=SynRGB_Trandict" referrerpolicy="no-referrer" alt="Readme Card"></a><br><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&amp;repo=SynEGR_ArduinoPCIE" referrerpolicy="no-referrer" alt="Readme Card"></a><br><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&amp;repo=BadApple" referrerpolicy="no-referrer" alt="Readme Card"></a></td><td><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/pin/?username=SynRGB&amp;repo=Trandict" referrerpolicy="no-referrer" alt="Readme Card"></a></td><td><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/pin/?username=SynEGR&amp;repo=PowerSupply_GWERP2U700_Modify" referrerpolicy="no-referrer" alt="Readme Card"></a><br><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/pin/?username=SynEGR&amp;repo=PCIe_Arduino_Expansion" referrerpolicy="no-referrer" alt="Readme Card"></a></td></tr><tr><td>Fork Contribute</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/pin/?username=SynthesisDu&amp;repo=VMA_FRC7594_2021" referrerpolicy="no-referrer" alt="Readme Card"></a></td><td>&nbsp;</td><td><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/pin/?username=SynEGR&amp;repo=PCIe_OCP2.0_Adapter" referrerpolicy="no-referrer" alt="Readme Card"></a><br><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/pin/?username=SynEGR&amp;repo=PowerSupply_HPECommonSlot_Adapter" referrerpolicy="no-referrer" alt="Readme Card"></a></td></tr></tbody>
+</table></figure>
+<p>&nbsp;</p>
+</details>
+</div>
