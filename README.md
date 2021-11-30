@@ -11,7 +11,7 @@
 </div>
 <hr />
 <div>
-  <img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact" />
+  <img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
   <pre><code class='language-java' width="56%" lang='java'>if (homework == plagiarize) score = score * 0;</code></pre>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact" />
 </div>
