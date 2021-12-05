@@ -12,6 +12,8 @@
   </p>
 </div>
 <hr />
+
+<hr />
 <div>
   <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
   <pre><code class='language-java' width="40%" lang='java'>if (homework == plagiarize) score = score * 0;</code></pre>
