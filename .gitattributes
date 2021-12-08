@@ -1,5 +1,5 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-*.py linguist-detectable=true
-*.py linguist-documentation=false
-*.java linguist-detectable=true
+.py linguist-detectable=true
+.py linguist-documentation=false
+.java linguist-detectable=true
