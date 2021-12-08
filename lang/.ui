@@ -1,628 +1,193 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ui version="4.0">
- <class>MainWindow</class>
- <widget class="QMainWindow" name="MainWindow">
-  <property name="geometry">
-   <rect>
-    <x>0</x>
-    <y>0</y>
-    <width>897</width>
-    <height>571</height>
-   </rect>
-  </property>
-  <property name="windowTitle">
-   <string>Trandict</string>
-  </property>
-  <property name="windowIcon">
-   <iconset>
-    <normaloff>icon.ico</normaloff>icon.ico</iconset>
-  </property>
-  <property name="autoFillBackground">
-   <bool>true</bool>
-  </property>
-  <property name="styleSheet">
-   <string notr="true"/>
-  </property>
-  <widget class="QWidget" name="centralwidget">
-   <layout class="QHBoxLayout" name="horizontalLayout_3">
-    <item>
-     <layout class="QVBoxLayout" name="verticalLayout_2">
-      <item>
-       <layout class="QHBoxLayout" name="horizontalLayout_4">
-        <item>
-         <widget class="QLineEdit" name="qqqVocIn">
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
-          </property>
-          <property name="minimumSize">
-           <size>
-            <width>0</width>
-            <height>0</height>
-           </size>
-          </property>
-          <property name="maximumSize">
-           <size>
-            <width>360</width>
-            <height>16777215</height>
-           </size>
-          </property>
-          <property name="font">
-           <font>
-            <family>Adobe 黑体 Std R</family>
-            <pointsize>13</pointsize>
-           </font>
-          </property>
-          <property name="styleSheet">
-           <string notr="true">background-color:rgb(255, 255, 255, 20)</string>
-          </property>
-          <property name="text">
-           <string/>
-          </property>
-         </widget>
-        </item>
-        <item>
-         <widget class="QLabel" name="label">
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
-          </property>
-          <property name="minimumSize">
-           <size>
-            <width>35</width>
-            <height>0</height>
-           </size>
-          </property>
-          <property name="maximumSize">
-           <size>
-            <width>35</width>
-            <height>16777215</height>
-           </size>
-          </property>
-          <property name="text">
-           <string>&lt;查词</string>
-          </property>
-         </widget>
-        </item>
-       </layout>
-      </item>
-      <item>
-       <layout class="QHBoxLayout" name="horizontalLayout_5">
-        <item>
-         <widget class="QTextBrowser" name="qqqVocList">
-          <property name="minimumSize">
-           <size>
-            <width>200</width>
-            <height>0</height>
-           </size>
-          </property>
-          <property name="maximumSize">
-           <size>
-            <width>400</width>
-            <height>16777215</height>
-           </size>
-          </property>
-          <property name="styleSheet">
-           <string notr="true">background-color:rgb(227, 227, 227, 5)</string>
-          </property>
-         </widget>
-        </item>
-       </layout>
-      </item>
-      <item>
-       <layout class="QHBoxLayout" name="horizontalLayout">
-        <item>
-         <widget class="QPushButton" name="qqqButtonHis">
-          <property name="enabled">
-           <bool>true</bool>
-          </property>
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
-          </property>
-          <property name="minimumSize">
-           <size>
-            <width>0</width>
-            <height>0</height>
-           </size>
-          </property>
-          <property name="maximumSize">
-           <size>
-            <width>25</width>
-            <height>25</height>
-           </size>
-          </property>
-          <property name="sizeIncrement">
-           <size>
-            <width>0</width>
-            <height>0</height>
-           </size>
-          </property>
-          <property name="text">
-           <string>His</string>
-          </property>
-         </widget>
-        </item>
-        <item>
-         <widget class="QPushButton" name="qqqButtonGra">
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
-          </property>
-          <property name="maximumSize">
-           <size>
-            <width>25</width>
-            <height>25</height>
-           </size>
-          </property>
-          <property name="text">
-           <string>Gra</string>
-          </property>
-         </widget>
-        </item>
-        <item>
-         <widget class="QLabel" name="label_4">
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
-          </property>
-          <property name="maximumSize">
-           <size>
-            <width>345</width>
-            <height>16777215</height>
-           </size>
-          </property>
-          <property name="text">
-           <string/>
-          </property>
-         </widget>
-        </item>
-       </layout>
-      </item>
-     </layout>
-    </item>
-    <item>
-     <widget class="Line" name="line">
-      <property name="orientation">
-       <enum>Qt::Vertical</enum>
-      </property>
-     </widget>
-    </item>
-    <item>
-     <layout class="QVBoxLayout" name="verticalLayout_4">
-      <item>
-       <layout class="QHBoxLayout" name="horizontalLayout_2">
-        <item>
-         <widget class="QTextBrowser" name="qqqVocTitle">
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
-          </property>
-          <property name="minimumSize">
-           <size>
-            <width>0</width>
-            <height>60</height>
-           </size>
-          </property>
-          <property name="maximumSize">
-           <size>
-            <width>16777215</width>
-            <height>60</height>
-           </size>
-          </property>
-          <property name="font">
-           <font>
-            <family>Adobe Caslon Pro Bold</family>
-            <pointsize>20</pointsize>
-           </font>
-          </property>
-          <property name="styleSheet">
-           <string notr="true">background-color:rgb(227, 227, 227, 5)</string>
-          </property>
-          <property name="html">
-           <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Adobe Caslon Pro Bold'; font-size:20pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-          </property>
-         </widget>
-        </item>
-        <item>
-         <layout class="QVBoxLayout" name="verticalLayout_5">
-          <item>
-           <layout class="QHBoxLayout" name="horizontalLayout_8">
-            <item>
-             <widget class="QCheckBox" name="qqqCheckBoxDone">
-              <property name="sizePolicy">
-               <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-                <horstretch>0</horstretch>
-                <verstretch>0</verstretch>
-               </sizepolicy>
-              </property>
-              <property name="text">
-               <string/>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QCheckBox" name="qqqCheckBoxStar">
-              <property name="sizePolicy">
-               <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-                <horstretch>0</horstretch>
-                <verstretch>0</verstretch>
-               </sizepolicy>
-              </property>
-              <property name="text">
-               <string/>
-              </property>
-             </widget>
-            </item>
-           </layout>
-          </item>
-          <item>
-           <layout class="QHBoxLayout" name="horizontalLayout_7">
-            <item>
-             <widget class="QLabel" name="label_2">
-              <property name="sizePolicy">
-               <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-                <horstretch>0</horstretch>
-                <verstretch>0</verstretch>
-               </sizepolicy>
-              </property>
-              <property name="text">
-               <string>[√]</string>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLabel" name="label_3">
-              <property name="sizePolicy">
-               <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-                <horstretch>0</horstretch>
-                <verstretch>0</verstretch>
-               </sizepolicy>
-              </property>
-              <property name="text">
-               <string>[★]</string>
-              </property>
-             </widget>
-            </item>
-           </layout>
-          </item>
-         </layout>
-        </item>
-       </layout>
-      </item>
-      <item>
-       <widget class="QTextBrowser" name="qqqVocCharacter">
-        <property name="sizePolicy">
-         <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
-          <horstretch>0</horstretch>
-          <verstretch>0</verstretch>
-         </sizepolicy>
-        </property>
-        <property name="minimumSize">
-         <size>
-          <width>350</width>
-          <height>0</height>
-         </size>
-        </property>
-        <property name="maximumSize">
-         <size>
-          <width>16777215</width>
-          <height>175</height>
-         </size>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color:rgb(227, 227, 227, 5)</string>
-        </property>
-       </widget>
-      </item>
-      <item>
-       <widget class="QTextBrowser" name="qqqVocWY">
-        <property name="sizePolicy">
-         <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
-          <horstretch>0</horstretch>
-          <verstretch>0</verstretch>
-         </sizepolicy>
-        </property>
-        <property name="maximumSize">
-         <size>
-          <width>16777215</width>
-          <height>125</height>
-         </size>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color:rgb(227, 227, 227, 5)</string>
-        </property>
-       </widget>
-      </item>
-      <item>
-       <widget class="QTextBrowser" name="qqqVocNote">
-        <property name="styleSheet">
-         <string notr="true">background-color:rgb(227, 227, 227, 5)</string>
-        </property>
-       </widget>
-      </item>
-     </layout>
-    </item>
-    <item>
-     <layout class="QVBoxLayout" name="verticalLayout_3">
-      <item>
-       <widget class="QGraphicsView" name="qqqGraphics">
-        <property name="minimumSize">
-         <size>
-          <width>0</width>
-          <height>150</height>
-         </size>
-        </property>
-        <property name="maximumSize">
-         <size>
-          <width>300</width>
-          <height>150</height>
-         </size>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color:rgb(227, 227, 227, 5)</string>
-        </property>
-       </widget>
-      </item>
-      <item>
-       <widget class="QTextBrowser" name="qqqDate">
-        <property name="minimumSize">
-         <size>
-          <width>300</width>
-          <height>0</height>
-         </size>
-        </property>
-        <property name="maximumSize">
-         <size>
-          <width>300</width>
-          <height>16777215</height>
-         </size>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color:rgb(227, 227, 227, 5)</string>
-        </property>
-       </widget>
-      </item>
-     </layout>
-    </item>
-   </layout>
-  </widget>
-  <widget class="QMenuBar" name="menubar">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>897</width>
-     <height>23</height>
-    </rect>
-   </property>
-   <widget class="QMenu" name="menu_F">
-    <property name="title">
-     <string>文件(&amp;F)</string>
-    </property>
-    <widget class="QMenu" name="menu_I">
-     <property name="title">
-      <string>导入(&amp;I)</string>
-     </property>
-     <addaction name="qqqF_I_W"/>
-     <addaction name="qqqF_I_H"/>
-     <addaction name="qqqF_I_N"/>
-     <addaction name="separator"/>
-     <addaction name="qqqF_I_D"/>
-    </widget>
-    <widget class="QMenu" name="menu_E_3">
-     <property name="title">
-      <string>导出(&amp;E)</string>
-     </property>
-     <addaction name="qqqF_E_W"/>
-     <addaction name="qqqF_E_H"/>
-     <addaction name="qqqF_E_N"/>
-     <addaction name="separator"/>
-     <addaction name="qqqF_E_D"/>
-    </widget>
-    <addaction name="menu_I"/>
-    <addaction name="menu_E_3"/>
-    <addaction name="separator"/>
-    <addaction name="qqqF_Q"/>
-   </widget>
-   <widget class="QMenu" name="menu_H">
-    <property name="title">
-     <string>帮助(&amp;H)</string>
-    </property>
-    <widget class="QMenu" name="menu_L">
-     <property name="title">
-      <string>语言(&amp;L)</string>
-     </property>
-     <addaction name="qqqH_L_C"/>
-     <addaction name="qqqH_L_E"/>
-    </widget>
-    <addaction name="menu_L"/>
-    <addaction name="qqqH_A"/>
-   </widget>
-   <widget class="QMenu" name="menu_V">
-    <property name="title">
-     <string>查看(&amp;V)</string>
-    </property>
-    <addaction name="qqqV_H"/>
-    <addaction name="qqqV_G"/>
-   </widget>
-   <widget class="QMenu" name="menu_E">
-    <property name="title">
-     <string>编辑(&amp;E)</string>
-    </property>
-    <addaction name="qqqE_A"/>
-   </widget>
-   <widget class="QMenu" name="menu_W">
-    <property name="title">
-     <string>窗口(&amp;W)</string>
-    </property>
-    <widget class="QMenu" name="menu_L_2">
-     <property name="title">
-      <string>语言(&amp;L)</string>
-     </property>
-     <addaction name="qqqW_L_C"/>
-     <addaction name="qqqW_L_E"/>
-    </widget>
-    <widget class="QMenu" name="menu_T">
-     <property name="title">
-      <string>全部主题(&amp;T)</string>
-     </property>
-     <addaction name="qqqW_T_O"/>
-     <addaction name="qqqW_T_D"/>
-     <addaction name="separator"/>
-     <addaction name="qqqW_T_C"/>
-    </widget>
-    <addaction name="qqqW_O"/>
-    <addaction name="qqqW_D"/>
-    <addaction name="menu_T"/>
-    <addaction name="separator"/>
-    <addaction name="menu_L_2"/>
-   </widget>
-   <addaction name="menu_F"/>
-   <addaction name="menu_E"/>
-   <addaction name="menu_V"/>
-   <addaction name="menu_W"/>
-   <addaction name="menu_H"/>
-  </widget>
-  <action name="qqqF_Q">
-   <property name="text">
-    <string>退出(&amp;Q)</string>
-   </property>
-  </action>
-  <action name="action_2">
-   <property name="text">
-    <string>清除查词记录</string>
-   </property>
-  </action>
-  <action name="action_3">
-   <property name="text">
-    <string>清除笔记</string>
-   </property>
-  </action>
-  <action name="qqqF_I_W">
-   <property name="text">
-    <string>单词表(&amp;W)</string>
-   </property>
-  </action>
-  <action name="qqqF_I_H">
-   <property name="text">
-    <string>查词记录(&amp;H)</string>
-   </property>
-  </action>
-  <action name="qqqF_I_N">
-   <property name="text">
-    <string>笔记(&amp;N)</string>
-   </property>
-  </action>
-  <action name="qqqF_I_D">
-   <property name="text">
-    <string>数据库(&amp;D)</string>
-   </property>
-  </action>
-  <action name="qqqF_E_W">
-   <property name="text">
-    <string>单词表(&amp;W)</string>
-   </property>
-  </action>
-  <action name="qqqF_E_H">
-   <property name="text">
-    <string>查词记录(&amp;H)</string>
-   </property>
-  </action>
-  <action name="qqqF_E_N">
-   <property name="text">
-    <string>笔记(&amp;N)</string>
-   </property>
-  </action>
-  <action name="qqqF_E_D">
-   <property name="text">
-    <string>数据库(&amp;D)</string>
-   </property>
-  </action>
-  <action name="qqqH_A">
-   <property name="text">
-    <string>关于(&amp;A)</string>
-   </property>
-  </action>
-  <action name="qqqH_L_C">
-   <property name="text">
-    <string>简体中文(&amp;C)</string>
-   </property>
-  </action>
-  <action name="qqqH_L_E">
-   <property name="text">
-    <string>English(&amp;E)</string>
-   </property>
-  </action>
-  <action name="qqqE_A">
-   <property name="text">
-    <string>词性/词意(&amp;A)</string>
-   </property>
-  </action>
-  <action name="qqqV_H">
-   <property name="text">
-    <string>历史(&amp;H)</string>
-   </property>
-  </action>
-  <action name="qqqV_G">
-   <property name="text">
-    <string>统计图(&amp;G)</string>
-   </property>
-  </action>
-  <action name="qqqW_L_C">
-   <property name="text">
-    <string>简体中文(&amp;C)</string>
-   </property>
-  </action>
-  <action name="qqqW_L_E">
-   <property name="text">
-    <string>English(&amp;E)</string>
-   </property>
-  </action>
-  <action name="qqqW_T_O">
-   <property name="text">
-    <string>初始(&amp;O)</string>
-   </property>
-  </action>
-  <action name="qqqW_T_D">
-   <property name="text">
-    <string>深色(&amp;D)</string>
-   </property>
-  </action>
-  <action name="qqqW_T_C">
-   <property name="text">
-    <string>自定义(&amp;C)</string>
-   </property>
-  </action>
-  <action name="qqqW_O">
-   <property name="text">
-    <string>初始主题(&amp;O)</string>
-   </property>
-  </action>
-  <action name="qqqW_D">
-   <property name="text">
-    <string>深色主题(&amp;D)</string>
-   </property>
-  </action>
- </widget>
- <resources>
-  <include location="icon_Trandict.qrc"/>
- </resources>
- <connections/>
-</ui>
+<!DOCTYPE html>
+<!-- saved from url=(0042)http://munity.cn/index.aspx?id=UDCZGYcOKkC -->
+<html xmlns="http://www.w3.org/1999/xhtml" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><title>
+	自助下载系统
+</title><link rel="stylesheet" media="screen" href="./自助下载系统_files/pa_login.css"><link href="./自助下载系统_files/font-awesome.min.css" rel="stylesheet" type="text/css"><link href="./自助下载系统_files/sweetalert2.css" rel="stylesheet" type="text/css"><link href="./自助下载系统_files/index1.css" rel="stylesheet" type="text/css"><link href="./自助下载系统_files/style1.css" rel="stylesheet" type="text/css">
+    <script src="./自助下载系统_files/jquery.js.下载"></script>
+    <script src="./自助下载系统_files/sweetalert2.min.js.下载"></script>
+    <script src="./自助下载系统_files/clipboard.min.js.下载"></script>
+    <script src="./自助下载系统_files/index1.js.下载"></script>
+    <script src="./自助下载系统_files/isie.js.下载"></script>
+
+
+    <script src="./自助下载系统_files/jquery-1.9.1.js.下载"></script>
+    <script src="./自助下载系统_files/modernizr.js.下载"></script>
+    <script src="./自助下载系统_files/global.js.下载"></script>
+    <script src="./自助下载系统_files/jquery.form.min.js.下载"></script>
+    <script src="./自助下载系统_files/layui.js.下载"></script>
+    <script src="./自助下载系统_files/layui-mz-min.js.下载"></script>
+    <script src="./自助下载系统_files/fuzhu.js.下载"></script>
+    <script src="./自助下载系统_files/clipboard.min.js(1).下载"></script>
+    <style>
+        .table_box {
+            background:#000;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="http://munity.cn/index.aspx?id=UDCZGYcOKkC" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwNTMzODQyNDAPZBYCAgMPZBYCZg8WAh4LXyFJdGVtQ291bnRmZGStdibVgtiNuvg+VIqNtX1FD6za1Wq+2rtVOulZiW7GNw==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987">
+</div>
+
+        
+        <div id="particles-js" style="display:flex; align-items: center; justify-content: center">
+        <canvas class="particles-js-canvas-el" width="1858" height="977" style="width: 100%; height: 100%;"></canvas></div>
+        
+        <!-- scripts -->
+        <script src="./自助下载系统_files/particles.js.下载"></script>
+        <script src="./自助下载系统_files/app.js.下载"></script>
+        
+        <div class="header">
+
+            <div class="logo_box">
+
+                <a class="logo">自助下载系统</a>
+            </div>
+            <div class="user_box">
+                <div class="img"><i class="fa fa-user-secret fa-3x" aria-hidden="true"></i></div>
+                <div class="name"></div>
+
+            </div>
+        </div>
+
+        <div class="download_info">
+            <div class="inner">
+                <div class="list_box">
+                    <div class="item" style="background: rgb(97, 100, 193,0.7);">
+                        <div class="title">
+如有侵犯到您的权益，请联系管理员下架，邮箱 wfscbw@163.com
+</div>
+                        <div class="num">联系我们</div>
+                        <div class="icon"><i class="fa fa-database fa-5x" aria-hidden="true"></i></div>
+                    </div>
+                    <div class="item" style="background: rgb(88, 88, 88,0.7);">
+                        <div class="title">1.适用于常规文件自助下载<br>
+                            2.大文件下载请耐心等候<br>
+                            3.其他问题请联系商家处理</div>
+                        <div class="num">客服微信：honglin015</div>
+                        <div class="icon"><i class="fa fa-arrow-circle-down fa-5x" aria-hidden="true"></i></div>
+                    </div>
+                    <div class="item" style="background: rgb(234, 78, 3,0.7);">
+                        <div class="title">本站仅提供临时代下载服务。同时也推荐购买官网会员，学习更多的知识，谢谢理解与配合！</div>
+                        <div class="num">声明</div>
+                        <div class="icon"><i class="fa fa-clock-o fa-5x" aria-hidden="true"></i></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="search_box">
+            <div class="inner">
+                <div class="logo"><span>文件下载</span></div>
+                <div class="title">请输入文档页面地址链接地址即可快速下载</div>
+                <div class="form_box">
+                        <div class="input_box">
+                            <div class="label">下载秘钥</div>
+                            <input id="cdk" class="input" type="text" name="url" placeholder="请输入下载秘钥CDKEY">
+                        </div>
+                        <div class="input_box">
+                            <div class="label">网页地址</div>
+                            <input id="data_url" class="input" type="text" name="email" placeholder="请输入下载网页地址" value="">
+                        </div>
+                        <button class="btn" type="button" onclick="download()">下载文件</button>
+                        <button class="btn_history" type="button" onclick="javascript:location.href=&#39;index.aspx?id=&#39;+$(&#39;#cdk&#39;).val();">历史记录</button>
+                </div>
+            </div>
+        </div>
+        <div class="table_box">
+            <div class="inner">
+                <div class="list_box">
+                    <div class="thead">
+                        <div class="tr">
+                            <div class="item">订单编号</div>
+                            <div class="item">下载地址</div>
+                            <div class="item">下载时间</div>
+                            <div class="item">当前状态</div>
+                            <div class="item">反馈结果</div>
+                            <div class="item">保存至本地</div>
+                        </div>
+                    </div>
+                    <div class="tbody">
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+	<div style="text-align:center;font-size: 12px;color: #eee;z-index:999999;">
+		<a href="http://beian.miit.gov.cn/" target="_blank">渝ICP备16000347号-1</a>
+	</div>
+        
+        <script>
+            var cdkid = req("id");
+            if (cdkid != "") {
+                $("#cdk").val(cdkid);
+            }
+
+            function download() {
+                if ($("#tqButton").hasClass("is-disabled")) {
+                    return;
+                }
+                $("#tqButton").addClass("is-disabled");
+                $("#loading").show();
+
+                var psotdata = {};
+                psotdata["cdk"] = $("#cdk").val();
+                psotdata["source_url"] = $("#data_url").val();
+                $.ajax({
+                    url: '../kk/info.aspx?do=kkCreate',
+                    type: 'POST',
+                    dataType: "json",
+                    data: psotdata,
+                    success: function (json) {
+                        if (json.code == 1) {
+                            alert(json.msg);
+                            location.href = "index.aspx?id=" + json.cdk + "&source_id=" + json.id;
+                        } else {
+                            alert(json.msg);
+                        }
+                        //$("#tqButton").removeClass("is-disabled");
+                        //$("#loading").hide();
+                    },
+                    error: function () {
+                        //$("#tqButton").removeClass("is-disabled");
+                        //$("#loading").hide();
+                    }
+                })
+            }
+
+            function feedback(id) {
+                if (confirm("是否进行文件报错？")) {
+                    var psotdata = {};
+                    psotdata["cdk"] = req("id");
+                    psotdata["id"] = id;
+                    $.ajax({
+                        url: '../kk/info.aspx?do=kkUploadCheck',
+                        type: 'POST',
+                        dataType: "json",
+                        data: psotdata,
+                        success: function (json) {
+                            if (json.code == 1) {
+                                alert(json.msg);
+                            } else {
+                                alert(json.msg);
+                            };
+                        },
+                        error: function () {
+                        }
+                    })
+                }
+            }
+        </script>
+
+    </form>
+
+
+</body></html>
