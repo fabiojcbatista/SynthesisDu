@@ -23,7 +23,7 @@
 </div>
 <hr />
 <div>
-  [![https://github.com/ashutosh00710/github-readme-activity-graph](https://activity-graph.herokuapp.com/graph?username=SynthesisDu)](https://github.com/SynthesisDu?tab=repositories)
+  [![SynthesisDu](https://activity-graph.herokuapp.com/graph?username=SynthesisDu)](https://github.com/SynthesisDu?tab=repositories)
 </div>
 <hr />
 <div>
