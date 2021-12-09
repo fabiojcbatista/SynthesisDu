@@ -10,6 +10,7 @@
   </p>
 </div>
 <hr />
+
 # All works is now classified to my organizations:
 
 <span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/0jS9RJcN/ico.png"></img></a><h1>SynEGR</h1>
