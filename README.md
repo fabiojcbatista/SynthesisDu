@@ -30,3 +30,10 @@
   <pre><code class='language-java' width="40%" lang='java'>if (homework == plagiarize) score = score * 0;</code></pre>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact" />
 </div>
+<hr />
+
+# Part of my proud works 🧐:
+
+<span><a href="https://github.com/SynRGB/Trandict"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynRGB&repo=Trandict" border=0></img></td><td><img height="140" src="https://i.postimg.cc/5NjR0VVw/icon-1.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/PxVVT3PX/repository-open-graph-template.png" border=0></img></td></tr></table></a></span><br>
+<span><a href="https://github.com/SynFUN/CommonAppColleges"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=CommonAppColleges" border=0></img></td><td><img height="140" src="https://i.postimg.cc/3R6PpPqq/icon.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/907sBL5Q/repository-open-graph-template.png" border=0></img></td></tr></table></a></span><br>
+<span><a href="https://github.com/SynFUN/UniversityRanking"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=UniversityRanking" border=0></img></td><td><img height="140" src="https://i.postimg.cc/7PnVVpLj/icon.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/15R56K8R/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
