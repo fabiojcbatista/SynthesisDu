@@ -11,7 +11,7 @@
 </div>
 <hr />
 
-# All works is now classified to my organizations:
+# All works is now classified 📚 to my organizations:
 
 <span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/0jS9RJcN/ico.png"></img></a><h1>SynEGR</h1>
 <h4>正式软件，多为练手项目，消极维护。| Copyright softwares. most for practice, lack docs or maintain.</h4></span><br><br>
