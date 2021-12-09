@@ -30,8 +30,7 @@
   <pre><code class='language-java' width="40%" lang='java'>if (homework == plagiarize) score = score * 0;</code></pre>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact" />
 </div>
-
-<br>
+<br><br><br>
 <hr />
 
 # Part of my proud works 🧐:
