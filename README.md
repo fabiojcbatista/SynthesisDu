@@ -13,16 +13,16 @@
 </div>
 <hr />
 <span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/0jS9RJcN/ico.png"></img></a><h1>SynEGR</h1>
-<h4>正式软件，多为练手项目，消极维护。| Copyright softwares. most for practice, lack docs or maintain.</h4></span><br />
+<h4>正式软件，多为练手项目，消极维护。| Copyright softwares. most for practice, lack docs or maintain.</h4></span><br><br>
 
 <span><a href="https://github.com/SynEGR"><img align="left" width="15%" src="https://i.postimg.cc/JzVLfqDV/IMG-2405.jpg"></img></a><h1>SynEGR</h1>
-<h4>自用的硬件项目。| Self-use electronic engeneering projs.</h4></span><br />
+<h4>自用的硬件项目。| Self-use electronic engeneering projs.</h4></span><br>
 
 <span><a href="https://github.com/SynURL"><img align="left" width="15%" src="https://i.postimg.cc/BQmf70Ty/icon.png"></img></a><h1>SynURL</h1>
-<h4>托管静态网页，纯因为放主号下太乱所以单开个组织。| GitHub Pages, just because too messy so drop into this organization.</h4></span><br />
+<h4>托管静态网页，纯因为放主号下太乱所以单开个组织。| GitHub Pages, just because too messy so drop into this organization.</h4></span><br>
 
 <span><a href="https://github.com/SynFUN"><img align="left" width="15%" src="https://i.postimg.cc/9QjJ6WTb/1.png"></img></a><h1>SynFUN</h1>
-<h4>轮子代码、文档、一次性程序，纯因为放主号下太乱所以单开个组织。| Wheel cods, documents, portable applications, just because too messy so drop into this organization.</h4></span><br />
+<h4>轮子代码、文档、一次性程序，纯因为放主号下太乱所以单开个组织。| Wheel cods, documents, portable applications, just because too messy so drop into this organization.</h4></span><br>
 <hr />
 <div>
   <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
