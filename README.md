@@ -13,7 +13,7 @@
 
 # All works is now classified 📚 to my organizations:
 
-<span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/0jS9RJcN/ico.png"></img></a><h1>SynEGR</h1>
+<span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/0jS9RJcN/ico.png"></img></a><h1>SynRGB</h1>
 <h4>正式软件，多为练手项目，消极维护。| Copyright softwares. most for practice, lack docs or maintain.</h4></span><br><br>
 
 <span><a href="https://github.com/SynEGR"><img align="left" width="15%" src="https://i.postimg.cc/JzVLfqDV/IMG-2405.jpg"></img></a><h1>SynEGR</h1>
