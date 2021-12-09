@@ -1,5 +1,3 @@
-# All my works is now classified to ↙ organizations.
-
 <div>
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true" />
   <p align="left">高三菜鸡，为了自学做做项目，目前在忙托福。啥都只会一点，来给大佬倒茶。</br>A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of every part, come to view real pro.</br></p>
@@ -12,6 +10,8 @@
   </p>
 </div>
 <hr />
+# All works is now classified to my organizations:
+
 <span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/0jS9RJcN/ico.png"></img></a><h1>SynEGR</h1>
 <h4>正式软件，多为练手项目，消极维护。| Copyright softwares. most for practice, lack docs or maintain.</h4></span><br><br>
 
