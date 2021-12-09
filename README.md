@@ -23,6 +23,10 @@
 </div>
 <hr />
 <div>
+  [![https://github.com/ashutosh00710/github-readme-activity-graph](https://activity-graph.herokuapp.com/graph?username=SynthesisDu)](https://github.com/SynthesisDu?tab=repositories)
+</div>
+<hr />
+<div>
   <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
   <pre><code class='language-java' width="40%" lang='java'>if (homework == plagiarize) score = score * 0;</code></pre>
   <pre><code class='language-python' width="40%" lang='python'>while True: earthOnline.newTask("keep alive")</code></pre>
