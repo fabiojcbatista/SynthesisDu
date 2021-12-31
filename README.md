@@ -12,7 +12,7 @@
 <hr />
 <div>
   <h1>All works is now classified 📚 to my organizations:</h1>
-<span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/0jS9RJcN/ico.png"></img></a><a href="https://github.com/SynRGB"><h1><strong>SynRGB</strong> - <code>Softwares</code>, <code>Extensions</code>, <code>Documents</code></h1></a>
+<span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/0jS9RJcN/ico.png"></img></a><h1><strong>SynRGB</strong> - <code>Softwares</code>, <code>Extensions</code>, <code>Documents</code></h1>
 <h4>长期维护项目。| Maintenancing projects.</h4></span><br><br>
 <span><a href="https://github.com/SynFUN"><img align="left" width="15%" src="https://i.postimg.cc/9QjJ6WTb/1.png"></img></a><h1><strong>SynFUN</strong> - <code>Disposables</code>, <code>Scripts</code>, <code>Portables</code></h1>
 <h4>一次性项目，用后不再维护。| Disposable projects, no maintenance.</h4></span><br>
