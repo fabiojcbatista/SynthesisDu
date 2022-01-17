@@ -1,6 +1,6 @@
 <div>
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true" />
-  <p align="left">高三菜鸡，为了自学做做项目，目前在忙托福。啥都只会一点，来给大佬倒茶。</br>A G12 noob, project-based learner, now busy in TOEFL. Knows a little bit of every part, come to view real pro.</br></p>
+  <p align="left">高三菜鸡，为了自学做做项目，目前在忙托福。啥都只会一点，来给大佬倒茶。</br>A G12 noob, project-based learner, now working on TOEFL. Know a little bit of most part, come to view real pro.</br></p>
   <hr />
   <p>
   <a href='https://space.bilibili.com/62596542'><img src="https://img.shields.io/badge/-SynRGB-05bfdf?style=flat&amp;logo=Bilibili&amp;logoColor=white" referrerpolicy="no-referrer" alt="Bilibili"></a>
