@@ -30,7 +30,7 @@
 </div>
 <hr />
 <div>
-  <h1>Part of my proud works 🧐:</h1>
+  <h1>Recent works 🧐:</h1>
 <span><a href="https://github.com/SynRGB/Trandict"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynRGB&repo=Trandict" border=0></img></td><td><img height="140" src="https://i.postimg.cc/5NjR0VVw/icon-1.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/PxVVT3PX/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
 <span><a href="https://github.com/SynRGB/AcFunScrollVolume"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynRGB&repo=AcFunScrollVolume" border=0></img></td><td><img height="140" src="https://i.postimg.cc/g0k48hjT/ico.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/2Sx21GkW/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
 <span><a href="https://github.com/SynFUN/CommonAppColleges"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=CommonAppColleges" border=0></img></td><td><img height="140" src="https://i.postimg.cc/3R6PpPqq/icon.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/907sBL5Q/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
