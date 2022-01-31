@@ -31,8 +31,11 @@
 <hr />
 <div>
   <h1>Recent works 🧐:</h1>
-<span><a href="https://github.com/SynRGB/Trandict"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynRGB&repo=Trandict" border=0></img></td><td><img height="140" src="https://i.postimg.cc/5NjR0VVw/icon-1.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/PxVVT3PX/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
 <span><a href="https://github.com/SynRGB/AcFunScrollVolume"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynRGB&repo=AcFunScrollVolume" border=0></img></td><td><img height="140" src="https://i.postimg.cc/g0k48hjT/ico.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/2Sx21GkW/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
 <span><a href="https://github.com/SynFUN/CommonAppColleges"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=CommonAppColleges" border=0></img></td><td><img height="140" src="https://i.postimg.cc/3R6PpPqq/icon.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/907sBL5Q/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
 <span><a href="https://github.com/SynFUN/UniversityRanking"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=UniversityRanking" border=0></img></td><td><img height="140" src="https://i.postimg.cc/7PnVVpLj/icon.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/15R56K8R/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
+<figure><table>
+<thead>
+<tr><th><h2><a href='https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify'>GWERP2U700_Modify</a></h1><h3>Server power supply GW-ERP2U700&#39;s MOD refit to full module.</h3><a href="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify"><img align="middle" src="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify/releases/download/v1.2/readme-pcb.png"></img></a></th></tr></thead>
+</table></figure>
 </div>
