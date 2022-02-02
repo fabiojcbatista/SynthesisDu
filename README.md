@@ -36,7 +36,7 @@
 <span><a href="https://github.com/SynFUN/UniversityRanking"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=UniversityRanking" border=0></img></td><td><img height="140" src="https://i.postimg.cc/7PnVVpLj/icon.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/15R56K8R/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
 <figure><table>
 <thead>
-<tr><th><h2><a href='https://github.com/SynEGR/LogitechG502Reverse'>Logitech G502 Reverse</a></h1><h3>In order to facilitate modification, copied G502 motherboard's PCB layout.</h3><a href="https://github.com/SynEGR/LogitechG502Reverse"><img align="middle" src="https://github.com/SynEGR/LogitechG502Reverse/releases/download/v1.0/readme-pcb.png"></img></a></th></tr></thead>
+<tr><th><h2><a href='https://github.com/SynEGR/LogitechG502Reverse'>Logitech G502 Reverse</a></h1><h3>In order to facilitate modification, copied G502 motherboard's PCB layout.</h3><a href="https://github.com/SynEGR/LogitechG502Reverse"><img align="middle" src="https://github.com/SynEGR/LogitechG502Reverse/releases/download/v1.1/readme-pcb.png"></img></a></th></tr></thead>
 </table></figure>
 <figure><table>
 <thead>
