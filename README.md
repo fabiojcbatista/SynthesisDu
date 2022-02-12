@@ -11,7 +11,7 @@
 </div>
 <hr />
 <div>
-  <h1>All works is now classified 📚 to my organizations:</h1>
+  <h1>All works is now classified 📚 to my own organizations:</h1>
 <span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/G38X8DZc/ico8-1.jpg"></img></a><h1><strong>SynRGB</strong> - <code>Softwares</code>, <code>Extensions</code>, <code>Documents</code></h1>
 <h4>长期维护项目。| Maintenancing projects.</h4></span><br><br>
 <span><a href="https://github.com/SynFUN"><img align="left" width="15%" src="https://i.postimg.cc/G2B93X8n/3-1.jpg"></img></a><h1><strong>SynFUN</strong> - <code>Disposables</code>, <code>Scripts</code>, <code>Portables</code></h1>
