@@ -12,9 +12,9 @@
 <hr />
 <div>
   <h1>All works is now classified 📚 to my own organizations:</h1>
-<span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/G38X8DZc/ico8-1.jpg"></img></a><h1><strong>SynRGB</strong> - <code>Softwares</code>, <code>Extensions</code>, <code>Contributions</code></h1>
+<span><a href="https://github.com/SynRGB"><img align="left" width="15%" src="https://i.postimg.cc/G38X8DZc/ico8-1.jpg"></img></a><h1><strong>SynRGB</strong> - <code>Softwares</code>, <code>Extensions</code>, <code>Scripts</code></h1>
 <h4>长期维护项目。| Maintenancing projects.</h4></span><br><br>
-<span><a href="https://github.com/SynFUN"><img align="left" width="15%" src="https://i.postimg.cc/G2B93X8n/3-1.jpg"></img></a><h1><strong>SynFUN</strong> - <code>Disposables</code>, <code>Scripts</code>, <code>Portables</code></h1>
+<span><a href="https://github.com/SynFUN"><img align="left" width="15%" src="https://i.postimg.cc/G2B93X8n/3-1.jpg"></img></a><h1><strong>SynFUN</strong> - <code>Disposables</code>, <code>Portables</code></h1>
 <h4>一次性项目，用后不再维护。| Disposable projects, no maintenance.</h4></span><br>
 <span><a href="https://github.com/SynEGR"><img align="left" width="15%" src="https://i.postimg.cc/NMWFKRm9/HDWicon3-1.jpg"></img></a><h1><strong>SynEGR</strong> - <code>Modeling</code>, <code>Circuits</code>, <code>Hardwares</code></h1>
 <h4>自用的硬件项目。| Self-use electronic engeneering projects.</h4></span><br>
