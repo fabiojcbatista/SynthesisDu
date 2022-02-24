@@ -16,7 +16,7 @@
 <h4>长期维护项目。| Maintenancing projects.</h4></span><br><br>
 <span><a href="https://github.com/SynFUN"><img align="left" width="15%" src="https://i.postimg.cc/G2B93X8n/3-1.jpg"></img></a><h1><strong>SynFUN</strong> - <code>Disposables</code>, <code>Portables</code></h1>
 <h4>一次性项目，用后不再维护。| Disposable projects, no maintenance.</h4></span><br>
-<span><a href="https://github.com/SynEGR"><img align="left" width="15%" src="https://i.postimg.cc/NMWFKRm9/HDWicon3-1.jpg"></img></a><h1><strong>SynEGR</strong> - <code>Modeling</code>, <code>Circuits</code>, <code>Hardwares</code></h1>
+<span><a href="https://github.com/SynEGR"><img align="left" width="15%" src="https://i.postimg.cc/s2pXKpdk/v7-1.png"></img></a><h1><strong>SynEGR</strong> - <code>Modeling</code>, <code>Circuits</code>, <code>Hardwares</code></h1>
 <h4>自用的硬件项目。| Self-use electronic engeneering projects.</h4></span><br>
 <span><a href="https://github.com/SynURL"><img align="left" width="15%" src="https://i.postimg.cc/xjzqWFVK/icon.png"></img></a><h1><strong>SynURL</strong> - <code>GitHub Pages</code></h1>
 <h4>静态网页，纯因为太乱所以单开个组织。| GitHub Pages, drop into this organization because too messy.</h4></span><br>
