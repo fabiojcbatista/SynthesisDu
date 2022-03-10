@@ -44,10 +44,7 @@
 </div>
 <hr />
 <div>
-  <h1>Recent works 🧐:</h1>
-<span><a href="https://github.com/SynRGB/AcFunScrollVolume"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynRGB&repo=AcFunScrollVolume" border=0></img></td><td><img height="140" src="https://i.postimg.cc/g0k48hjT/ico.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/2Sx21GkW/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
-<span><a href="https://github.com/SynFUN/CommonAppColleges"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=CommonAppColleges" border=0></img></td><td><img height="140" src="https://i.postimg.cc/3R6PpPqq/icon.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/907sBL5Q/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
-<span><a href="https://github.com/SynFUN/UniversityRanking"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=UniversityRanking" border=0></img></td><td><img height="140" src="https://i.postimg.cc/7PnVVpLj/icon.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/15R56K8R/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
+  <h1>Part of recent works 🧐:</h1>
 <figure><table>
 <thead>
 <tr><th><h2><a href='https://github.com/SynEGR/LogitechG502Reverse'>Logitech G502 Reverse</a></h1><h3>In order to facilitate modification, copied G502 motherboard's PCB layout.</h3><a href="https://github.com/SynEGR/LogitechG502Reverse"><img align="middle" src="https://github.com/SynEGR/LogitechG502Reverse/releases/download/v1.1/readme-pcb.png"></img></a></th></tr></thead>
@@ -56,4 +53,6 @@
 <thead>
 <tr><th><h2><a href='https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify'>GW-ERP2U700 Modify</a></h1><h3>Server power supply GW-ERP2U700&#39;s MOD refit to full module.</h3><a href="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify"><img align="middle" src="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify/releases/download/v1.2/readme-pcb.png"></img></a></th></tr></thead>
 </table></figure>
+<span><table><tr><td width="45%"><a href="https://github.com/SynFUN/OrgPeopleListBuilder"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=OrgPeopleListBuilder" border=0></img></a></td><td width="55%"><p  style="font-size:10px">爬取 GitHub Organization 的人员名单与对应所在的页数。目的是想解决由于 Organization 人数过多导致的搜索功能 timeout 报错的问题。</br>Crawls the GitHub Organization's people list and their corresponding pages.</p></td></tr></table></span>
+<span><a href="https://github.com/SynRGB/AcFunScrollVolume"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynRGB&repo=AcFunScrollVolume" border=0></img></td><td><img height="140" src="https://i.postimg.cc/g0k48hjT/ico.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/2Sx21GkW/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
 </div>
