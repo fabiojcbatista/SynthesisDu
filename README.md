@@ -40,7 +40,7 @@
   <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
   <pre><code class='language-java' width="60%" lang='java'>if (homework.type == plagiarised) score = score * 0;</code></pre>
   <pre><code class='language-python' width="60%" lang='python'>while True: earthOnline.newTask("keep alive")</code></pre>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact" />
 </div>
 <hr />
 <div>
